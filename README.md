@@ -1,0 +1,1 @@
+This example demonstrates a common issue in TypeScript where type safety isn't as strict as expected.  A function expecting a string accepts an array without throwing a compiler error, resulting in unexpected runtime behavior. The solution shows how to correctly enforce type safety.
